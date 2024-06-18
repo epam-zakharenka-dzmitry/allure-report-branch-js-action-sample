@@ -1,1 +1,1 @@
-Testing allure-report-branch-js-action PR functionality.
+Testing of the allure-report-branch-js-action PR functionality.
